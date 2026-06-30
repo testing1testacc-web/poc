@@ -2,8 +2,7 @@
 
 
 def add(a, b):
-    # BUG: returns the wrong result
-    return a - b
+    return a + b
 
 
 def main():
